@@ -1,9 +1,17 @@
+
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #eee;
+  background-color: #F72c25;
+}
+h1{
+  font-family: 'Chewy', cursive;
+  font-size: 8rem;
+  text-align: center;
+  color: white;
+  text-shadow: 5px 5px 15px rgba(0,0,0,.25);
 }
 
 #container {
@@ -44,7 +52,8 @@ input {
 }
 
 button {
-  font-family: cursive;
+  font-family: 'Chewy', cursive;
+  text-shadow: 5px 5px 15px rgba(0,0,0,.25);
   padding: 0 25px;
   font-size: 25px;
   margin-top: 15px;
